@@ -1,0 +1,164 @@
+﻿{
+  "basics": {
+    "name": "Rohin Kumar",
+    "label": "Software Programmer",
+    "picture": "http://lh4.googleusercontent.com/-XMOkny5Ut0M/AAAAAAAAAAI/AAAAAAAABU4/KlbgSQMDgwA/photo.jpg",
+    "email": "rohintuni88@gmail.com",
+    "phone": "01137786911",
+    "LinkedIn":"https://www.linkedin.com/in/rohin-tuni-5901ab115?trk=nav_responsive_tab_profile",
+    "Blog": "http://rohintunikipati.blogspot.my/2013/03/session-idle-timeout-in-google-android.html",
+    "Objective":"Seeking a challenging assignment in the IT Industry  Android Apps, Cross Mobile Apps and Games Develope to utilize the broad skills and expertise and be an invaluable asset to your organization",
+    "summary": "Summary: Proactive professional with 5.3 years of experience in Information Technology industry in developing Java Technology Android Applications and Games using Android Framework and Eclipse. Currently working as an Android Apps Developer and Supporting all Mobile apps at Emiraties IT Group, Dubaï. Hands on Experience in developing applications using Java Android, SUP in Mobility XML and SQLite Database. Hand on Experience in Developing Phone gap / Cordova Mobile Apps. Hands on Experience in Cross Mobile Platform Frameworks, HTML5, CSS and Java Script. Worked in Bit Bucket, Source Tree, GIT, Maven, SVN and Android Studio. Implemented and executed many social Gaming projects successfully. Worked on the SUP/SAP Integration in Android Apps, Backend SAP Servers. Worked on the Fragments, Fragment Activity, Action Bar and Google Maps. Worked on Different type of Mobile Platforms like Android and Phone Gap / Cordova.Basic Knowledge on Angular JS.Proficient in object-oriented design, data structures, problem solving, complexity analysis, debugging and testing.Expert in the interaction between various devices and different versions of Android.Regarded as a self-motivated, well organized Team Player  and Team Leader.Designed and coded from specifications, analyzed, evaluated, tested and implemented complex software apps.Strong knowledge on Core Java, J2EE,Java Collection Framework and Android SDK and NDK Framework. ",
+    "location": {
+      "address": "Malaysia",
+      "postalCode": "509908",
+      "city": "Kuala Lumpur",
+      "countryCode": "Malaysia",
+      "region": "KL"
+    },
+    "profiles": [
+      {
+        "network": "Gmail",
+        "username": "rohintuni88@gmail.com",
+        "url": "http://www.gmail.com"
+      },
+      {
+        "network": "Personal Blog",
+        "username": "Rohin Tunikiipat",
+        "url": "http://rohintunikipati.blogspot.my/2013/03/session-idle-timeout-in-google-android.html"
+      },
+      {
+        "network": "GitHub",
+        "username": "rajannayar78",
+        "url": "https://github.com/rajannayar78"
+      }
+    ]
+  },
+    "awards" : [
+    {
+        "awarder" : "Rohin Tuni",
+        "date" : "5/7/2013",
+        "summary" : "Received customer appreciation for the very successful implementation and support of the project within the schedules and costs.",
+        "title" : "Software Developer"
+    }
+    ],
+   "volunteer": [
+          {
+            "organization": "JNTU Collage",
+            "position": "Student volunteer",
+            "website": "http://www.bits.com",
+            "startDate": "2008-12-31",
+            "endDate": "2009-1-2",
+            "summary": "Collage Function",
+            "highlights": [
+              "Collage Fest."
+                         ]
+          }
+  ],
+  "work": [
+    {
+      "company": "Emirates Airlines",
+      "position": "Senior Android Engineer",
+      "website": "http://www.Emirates.com",
+      "startDate": "2015-2-2",
+      "endDate": "2016-2-5",
+      "highlights": [
+        "https://play.google.com/store/apps/details?id=com.emirates.ek.android&hl=en",
+        "Emirates IT Group (EGIT) is a government organization that regulates the Flight Transport Operations",
+        "Explore the world your way with the personalized Emirates App for Android",
+        "Book your flights, manage your Emirates Skywards account, check-in online and see your boarding pass from both the appand Google Now","The application Needs to have excellent rich and appealing user interface that would improve usability",
+        "The UI design considerations should be focused on Usability and Information Architecture with user Friendly interfaces"
+      ],
+      "summary": "Designing user interfaces using XML .Solving the Major Issues. Developed database stored procedures and functions.Utilized Android Studio to build and deploy the application Involved in Manifestfile.xml permissions and services Involved in coding part like List Views, Activity Navigations, Logic Functionality’s, Database Storage and Web service"
+    },
+    {
+      "company": "DCAA",
+      "position": "Senior Developer",
+      "website": "https://www.dcaa.gov/",
+      "startDate": "8-2013",
+      "endDate": "12-2014",
+      "highlights": [
+        "Description: Dubai Civil Aviation Authority (DCAA) is a government organization that regulates the Airport and Air Transport Operations. In a nutshell DCAA provides required permissions and NOCs to the external agencies / individuals / Air Line companies for their operations inside Dubai Governed Geography. This includes Dubai Airports. Each permission and NOC has relevance With this Airport. This being a governing and regulatory body, the data security is a Prime Focus. Each and every document and all the content should be viewed by only authorized Individuals. Confidentiality of the content is serious and needs to be very strict. The application Needs to have excellent rich and appealing user interface that would improve usability. The UI design considerations should be focused on Usability and Information Architecture with user Friendly interfaces"
+      ],
+      "summary": "Designing user interfaces using XML .Solving the Major Issues. Developed database stored procedures and functions.Utilized Android Studio to build and deploy the application Involved in Manifestfile.xml permissions and services Involved in coding part like List Views, Activity Navigations, Logic Functionality’s, Database Storage and Web service"
+    },
+    {
+      "company": "Lyca VoIP (IMSDroid)",
+      "position": "Developer",
+      "website": "http://www.popcorn.com",
+      "startDate": "6-2012",
+      "endDate": "4-2013",
+      "highlights": [
+        "Description: Lyca VoIP is the first fully featured open source 3GPP IMS Client for Android devices (1.5 and later). The main purpose of the project is to exhibit Doubang's features and to offer an IMS client to the open source community. Doubang is an experimental, open source, 3GPP IMS/LTE framework for both embedded (Android, Windows Mobile, Symbian, iPhone, iPad ) and desktop systems (Windows XP/Vista/7, MAC OS X, Linux.) and is written in ANSI-C to ease portability"
+      ],
+     "summary": "Designing user interfaces using XML .Solving the Major Issues. Developed database stored procedures and functions.Utilized Android Studio to build and deploy the application Involved in Manifestfile.xml permissions and services Involved in coding part like List Views, Activity Navigations, Logic Functionality’s, Database Storage and Web service"
+    },
+      {
+      "company": "Risk Management (SUP Integration Based Project)",
+      "position": "Developer",
+      "website": "http://www.erpanderp.com",
+      "startDate": "2-1-2012",
+      "endDate": "4-6-2012",
+        "highlights": ["Summary: Designing user interfaces using XML .Solving the Major Issues. Developed database stored procedures and functions.Utilized Android Studio to build and deploy the application Involved in Manifestfile.xml permissions and services Involved in coding part like List Views, Activity Navigations, Logic Functionality’s, Database Storage and Web service"],
+        "summary": "Designing user interfaces using XML .Solving the Major Issues. Developed database stored procedures and functions.Utilized Android Studio to build and deploy the application Involved in Manifestfile.xml permissions and services Involved in coding part like List Views, Activity Navigations, Logic Functionality’s, Database Storage and Web service"
+    }
+
+  ],
+  "education": [
+    {
+      "institution": "JNTU Collage, Hyderabad",
+      "area": "Computer Science",
+      "studyType": "Programming Languages like C,Java, Database and Web technologies",
+      "startDate": "2006-04-01",
+      "endDate": "2010-05-01",
+      "gpa": "A",
+      "courses": ["Computer Science of Engg"]
+    }
+  ],
+  "publications": [
+
+    {
+      "name": "Session Idle Timerout in Android",
+      "publisher": "Rohin Tunikipati",
+      "releaseDate": "in 2012",
+      "website": "http://rohintunikipati.blogspot.my/2013/03/session-idle-timeout-in-google-android.html",
+      "summary": "Session Idle Timerout in Android Source Code"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Android Development",
+      "level": "Professional",
+      "keywords": ["Android SDK, Android Studio IDE, Cross Mobile Platfoem, Web Technologies, Java, Database and SUP in Mobility"
+
+      ]
+    }
+
+  ],
+  "languages": [
+    {
+      "language": "English, Telugu and Hindi",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Music and Dance",
+      "keywords": [
+        "Dancer ",
+        "composing"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Zombie West Game",
+      "reference": "https://play.google.com/store/apps/details?id=com.yesgnome.undeadfrontier"
+    },
+    {
+      "name": "Risk Management",
+      "reference": "http://www.youtube.com/watch?v=XKfxEsMazGo "
+    }
+
+  ]
+}
